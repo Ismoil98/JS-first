@@ -1,0 +1,33 @@
+.body {
+  user-select: none;
+}
+
+.films {
+  font-size: 76px;
+  line-height: 1.5;
+  font-weight: bold;
+  color: rgb(241, 105, 105);
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  margin-top: 40px;
+  margin-bottom: 60px;
+}
+
+.sorovnoma {
+  max-width: 1440px;
+  width: 100%;
+  height: 400px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 20px;
+  line-height: 1.5;
+  color: rgb(196, 189, 189);
+  background-image: url('/image/bg-marvel.jpg');
+  background-repeat: no-repeat;
+  background-size: 1920px 1080px;
+  background-position-x: center;
+  height: auto;
+}
